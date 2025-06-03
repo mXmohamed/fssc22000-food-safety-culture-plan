@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fond avec bordure arrondie -->
+  <rect x="10" y="10" width="780" height="580" rx="20" ry="20" fill="#f8f9fa" stroke="#343a40" stroke-width="2"/>
+  
+  <!-- Titre -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#212529">
+    Modèle de Food Safety Culture pour l'Industrie Fromagère
+  </text>
+  <text x="400" y="80" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#495057">
+    Conforme à la norme FSSC 22000
+  </text>
+  
+  <!-- Cercle central -->
+  <circle cx="400" cy="300" r="150" fill="#f1f8ff" stroke="#0366d6" stroke-width="3"/>
+  <text x="400" y="300" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#0366d6">
+    Food Safety Culture
+  </text>
+  <text x="400" y="330" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#0366d6">
+    Industrie Fromagère
+  </text>
+  
+  <!-- Les 5 dimensions (cercles extérieurs) -->
+  <!-- Vision et Mission -->
+  <circle cx="400" cy="120" r="70" fill="#e6f1ff" stroke="#0366d6" stroke-width="2"/>
+  <text x="400" y="110" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0366d6">
+    Vision et Mission
+  </text>
+  <text x="400" y="135" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+    Engagement de la direction
+  </text>
+  <line x1="400" y1="190" x2="400" y2="150" stroke="#0366d6" stroke-width="2"/>
+  
+  <!-- Personnel -->
+  <circle cx="620" cy="210" r="70" fill="#e6f1ff" stroke="#0366d6" stroke-width="2"/>
+  <text x="620" y="200" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0366d6">
+    Personnel
+  </text>
+  <text x="620" y="225" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+    Formation et implication
+  </text>
+  <line x1="510" y1="250" x2="570" y2="230" stroke="#0366d6" stroke-width="2"/>
+  
+  <!-- Cohérence -->
+  <circle cx="620" cy="390" r="70" fill="#e6f1ff" stroke="#0366d6" stroke-width="2"/>
+  <text x="620" y="380" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0366d6">
+    Cohérence
+  </text>
+  <text x="620" y="405" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+    Alignement des priorités
+  </text>
+  <line x1="510" y1="350" x2="570" y2="370" stroke="#0366d6" stroke-width="2"/>
+  
+  <!-- Adaptabilité -->
+  <circle cx="400" cy="480" r="70" fill="#e6f1ff" stroke="#0366d6" stroke-width="2"/>
+  <text x="400" y="470" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0366d6">
+    Adaptabilité
+  </text>
+  <text x="400" y="495" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+    Gestion du changement
+  </text>
+  <line x1="400" y1="410" x2="400" y2="450" stroke="#0366d6" stroke-width="2"/>
+  
+  <!-- Conscience des risques -->
+  <circle cx="180" cy="390" r="70" fill="#e6f1ff" stroke="#0366d6" stroke-width="2"/>
+  <text x="180" y="380" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0366d6">
+    Conscience des risques
+  </text>
+  <text x="180" y="405" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+    Compréhension des dangers
+  </text>
+  <line x1="290" y1="350" x2="230" y2="370" stroke="#0366d6" stroke-width="2"/>
+  
+  <!-- Spécificités fromagères -->
+  <circle cx="180" cy="210" r="70" fill="#e6f1ff" stroke="#0366d6" stroke-width="2"/>
+  <text x="180" y="200" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#0366d6">
+    Spécificités fromagères
+  </text>
+  <text x="180" y="225" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+    Risques spécifiques
+  </text>
+  <line x1="290" y1="250" x2="230" y2="230" stroke="#0366d6" stroke-width="2"/>
+  
+  <!-- Légende -->
+  <rect x="50" y="520" width="700" height="60" rx="10" ry="10" fill="#ffffff" stroke="#6c757d" stroke-width="1"/>
+  <text x="400" y="545" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#212529">
+    Niveaux de maturité : (1) Initial → (2) En développement → (3) Défini → (4) Géré → (5) Optimisé
+  </text>
+  <text x="400" y="565" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#495057">
+    Basé sur le modèle du GFSI (Global Food Safety Initiative) et adapté à l'industrie fromagère
+  </text>
+</svg>
